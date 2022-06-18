@@ -1,0 +1,43 @@
+[
+    {
+        "empname":"Rom",
+        "department":"Software"
+    },
+    {
+        "empname":"Rajan",
+        "department":"Hardware"
+    },
+    {
+        "empname":"Den",
+        "department":"Network"
+    },
+    {
+        "empname":"Anu",
+        "department":"Software"
+    },
+    {
+        "empname":"Rit",
+        "department":"Support"
+    },
+    {
+        "empname":"Ume",
+        "department":"Software"
+    },
+    {
+        "empname":"Bino",
+        "department":"Support"
+    },
+    {
+        "empname":"Kama",
+        "department":"Network"
+    },
+    {
+        "empname":"Suj",
+        "department":"Hardware"
+    },
+    {
+        "empname":"Ash",
+        "department":"Software"
+    }
+
+]
